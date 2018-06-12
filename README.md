@@ -1,4 +1,4 @@
-# The Ultimate CSS Walkthrough
+# The Ultimate CSS Walkthroughs
 
 + Fork and Clone this repository
 + Open the project in the Learn IDE.
